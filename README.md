@@ -1,5 +1,7 @@
 Upgraded to work with .NET 6
 
+The samples still target original .NET versions but they should still work since they're compatible with .NET standard 2.
+
 NOTE: The [Original](https://github.com/lidgren/lidgren-network-gen3) is "Not actively developed any more; only accepting trivial or minor bug fixes.**" 
 
 # Lidgren.Network ![](https://api.travis-ci.org/RevoluPowered/lidgren-network-gen3.svg?branch=master)
